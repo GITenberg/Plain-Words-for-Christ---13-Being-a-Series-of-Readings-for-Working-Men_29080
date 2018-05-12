@@ -4,6 +4,8 @@ covers:
 - cover_type: archival
   image_path: 29080-h/images/img-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29080#Plain-Words-for-Christ---13-Being-a-Series-of-Readings-for-Working-Men
 gutenberg_issued: '2009-06-09'
 gutenberg_type: Text
 identifiers:
