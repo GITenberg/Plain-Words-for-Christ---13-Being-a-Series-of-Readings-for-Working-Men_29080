@@ -1,0 +1,18 @@
+_repo: Plain-Words-for-Christ---13-Being-a-Series-of-Readings-for-Working-Men_29080
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29080-h/images/img-cover.jpg
+description: ''
+gutenberg_issued: '2009-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion'
+title: "Plain Words for Christ,\r\nBeing a Series of Readings for Working Men"
+url: http://www.gutenberg.org/ebooks/29080
